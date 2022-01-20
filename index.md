@@ -1,50 +1,31 @@
----
-layout: homepage
----
-
 ## About Me
 
-I am a Ph.D. student at ...
+Currently I am a Ph.D. student in Engineering and Applied Science School, George Washington University. I am advised by Professor [Rober B. Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep metric learning on visual task. My current research is focused on finding visual explanation for deep metric learning on Convolutional Nerual Network.
 
-## Research Interests
+## Research 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+My research area is in Computer Vision. Finding visual explanation for deep metric learning,
+ 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- **Hard negative examples are hard, but useful**  
+ H.Xuan, A.Stylianou, **X.Liu**, & R. Pless  
+2020 European Conference on Computer Vision, **ECCV 2020**.  
+[[PDF]](https://arxiv.org/pdf/2007.12749.pdf)
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+- **2-map: Aligned visualizations for comparison of high-dimensional point sets**  
+**X.Liu**, Z.Zhang, H.Xuan, R.Leontie, A.Stylianou, & R. Pless  
+2020 IEEE Winter Conference on Applications of Computer Vision, **WACV 2020**.  
+[[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Liu_2-MAP_Aligned_Visualizations_for_Comparison_of_High-Dimensional_Point_Sets_WACV_2020_paper.pdf)
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+- **Visualizing how embeddings generalize**  
+**X.Liu**, H.Xuan, Z.Zhang, A.Stylianou, & R. Pless  
+Understanding and Improving Generalization in Deep Learning Workshop,  
+36th International Conference on Machine Learning, **ICML 2019**.    
+[[PDF]](https://arxiv.org/abs/1909.07464)
 
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- **Visualizing Data Driven Phenotypes**  
+ Z.Zhang, **X.Liu**, H.Xuan, A.Stylianou, & R. Pless  
+Computer Vision Problems in Plant Phenotyping Workshop at  
+Conference on Computer Vision and Pattern Recognition, **CVPPP@CVPR 2019**.    
+[[PDF]](https://www.plant-phenotyping.org/lw_resource/datapool/systemfiles/elements/files/c7538f5c-7552-11e9-b1c5-dead53a91d31/current/document/ZhangCVPPP2019.pdf)
