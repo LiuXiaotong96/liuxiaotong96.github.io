@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 ## About Me
 
 Currently I am a Ph.D. student in Engineering and Applied Science School, George Washington University. I am advised by Professor [Rober B. Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep metric learning on visual task. My current research is focused on finding visual explanation for deep metric learning on Convolutional Nerual Network.
