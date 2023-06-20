@@ -4,11 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Engineering and Applied Science School, George Washington University. I am advised by Professor [Robert B. Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep metric learning on visual tasks.
-
-## Research 
-
-My research area is in Computer Vision, interested in finding a visual explanation for convolutional neural networks, especially for deep metric learning, which is a popular area for face re-id, image retrieval, and other application. My current research is focused on finding explanations for visual deep metric learning in visual-language model space.
+I am a Ph.D. candidate in Engineering and Applied Science School, George Washington University. I am advised by Professor [Robert B. Pless](https://www2.seas.gwu.edu/~pless/). My research area is in Computer Vision, interested in finding a visual explanation for convolutional neural networks, especially for deep metric learning, which is a popular area for face re-id, image retrieval, and other application. My current research is focused on finding explanations for visual deep metric learning in visual-language model space.
 
  
 ## Publications
