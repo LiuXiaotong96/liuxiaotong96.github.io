@@ -4,13 +4,20 @@ layout: homepage
 
 ## About Me
 
-Currently I am a Ph.D. student in Engineering and Applied Science School, George Washington University. I am advised by Professor [Robert B. Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep metric learning on visual task. My current research is focused on finding visual explanation for deep metric learning on Convolutional Nerual Network.
+I am a Ph.D. candidate in Engineering and Applied Science School, George Washington University. I am advised by Professor [Robert B. Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep metric learning on visual tasks.
 
 ## Research 
 
-My research area is in Computer Vision, interested in finding visual explanation for convolutional nerual network, especially for deep metric learning, which is a popluar area for face re-id, image retrieval and other application.
+My research area is in Computer Vision, interested in finding a visual explanation for convolutional neural networks, especially for deep metric learning, which is a popular area for face re-id, image retrieval, and other application. My current research is focused on finding explanations for visual deep metric learning in visual-language model space.
+
  
 ## Publications
+
+- **Subspace Based Visualization for Embedding Network.**  
+ **X.Liu**, A.Stylianou, Z.Zhang, & R. Pless  
+Explainable AI for Computer Vision Workshop at 
+Conference on Computer Vision and Pattern Recognition, **XAI4CV@CVPR 2022**.    
+[[PDF]](https://xai4cv.github.io/assets/posters/p26.pdf)
 
 - **Hard negative examples are hard, but useful**  
  H.Xuan, A.Stylianou, **X.Liu**, & R. Pless  
