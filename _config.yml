@@ -8,7 +8,7 @@ github_link: https://github.com/LiuXiaotong96
 linkedin: https://www.linkedin.com/in/xiaotong-liu-679151226/
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
-favicon: ./assets/img/profile.jpg
+favicon: ./assets/img/avatar.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
