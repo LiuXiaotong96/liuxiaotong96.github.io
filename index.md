@@ -9,12 +9,6 @@ I am a Ph.D. candidate in Engineering and Applied Science school at George Washi
  
 ## Publications
 
-- **Subspace Based Visualization for Embedding Network.**  
- **X.Liu**, A.Stylianou, Z.Zhang, & R. Pless  
-Explainable AI for Computer Vision Workshop at 
-Conference on Computer Vision and Pattern Recognition, **XAI4CV@CVPR 2022**.    
-[[PDF]](https://xai4cv.github.io/assets/posters/p26.pdf)
-
 - **Hard negative examples are hard, but useful**  
  H.Xuan, A.Stylianou, **X.Liu**, & R. Pless  
 2020 European Conference on Computer Vision, **ECCV 2020**.  
@@ -36,3 +30,9 @@ Understanding and Improving Generalization in Deep Learning Workshop,
 Computer Vision Problems in Plant Phenotyping Workshop at  
 Conference on Computer Vision and Pattern Recognition, **CVPPP@CVPR 2019**.    
 [[PDF]](https://www.plant-phenotyping.org/lw_resource/datapool/systemfiles/elements/files/c7538f5c-7552-11e9-b1c5-dead53a91d31/current/document/ZhangCVPPP2019.pdf)
+
+- **Subspace Based Visualization for Embedding Network.**  
+ **X.Liu**, A.Stylianou, Z.Zhang, & R. Pless  
+Explainable AI for Computer Vision Workshop at 
+Conference on Computer Vision and Pattern Recognition, **XAI4CV@CVPR 2022**.    
+[[PDF]](https://xai4cv.github.io/assets/posters/p26.pdf)
