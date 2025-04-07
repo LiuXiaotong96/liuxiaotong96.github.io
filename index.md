@@ -3,8 +3,10 @@ layout: homepage
 ---
 
 ## About Me
+I am currently a Senior Computer Vision Engineer at XMotors.AI, where I conduct research and develop vision-language models (VLMs) and large language models (LLMs) for self-driving systems and intelligent cabins. Previously, I was a Ph.D. student at the School of Engineering and Applied Science at George Washington University, where I conducted research in the field of computer vision under the guidance of Professor Robert B. Pless. My work focused on providing visual explanations for deep learning models, particularly in the context of deep metric learning—an area with impactful applications such as face re-identification and image retrieval.
 
-I am a Ph.D. candidate in Engineering and Applied Science school at George Washington University, conducting research in the field of Computer Vision. Under the guidance of Professor Robert B. Pless, my focus lies in providing visual explanations for deep learning, particularly in the context of deep metric learning. This area has gained significant traction in face re-identification, image retrieval, and other applications. Presently, my research is exploring the visual-language model space. By unraveling the intricacies of networks, I aim to bridge the gap between their impressive performance and our understanding of their decision-making processes. Through a multidisciplinary approach, encompassing computer vision, machine learning, and natural language processing, I strive to contribute to the development of interpretable AI systems. Ultimately, my research aims to enhance transparency and interpretability in deep learning models, fostering trust and accountability in their deployment for real-world applications.
+Currently, my research explores the application of vision-language models (VLMs) in autonomous driving. I focus on using VLMs and LLMs as decision-making agents to enhance vehicle safety and provide a more comfortable and intelligent in-cabin experience for every passenger.
+
 
  
 ## Publications
